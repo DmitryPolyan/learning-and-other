@@ -1,3 +1,6 @@
 /some_pythons_practice/.idea/
 /lession_flask_and_vue/.idea/
 /lession_flask_and_vue/venv/
+/microblog/.idea/
+/microblog/venv/
+/microblog/sqlalchemy.dialects.sqlite
