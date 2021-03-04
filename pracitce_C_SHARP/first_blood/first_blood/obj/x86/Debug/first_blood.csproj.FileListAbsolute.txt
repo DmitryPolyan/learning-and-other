@@ -1,6 +1,0 @@
-/home/e3erli/PycharmProjects/calc/2021/pracitce_C_SHARP/first_blood/first_blood/bin/Debug/first_blood.exe
-/home/e3erli/PycharmProjects/calc/2021/pracitce_C_SHARP/first_blood/first_blood/bin/Debug/first_blood.pdb
-/home/e3erli/PycharmProjects/calc/2021/pracitce_C_SHARP/first_blood/first_blood/obj/x86/Debug/first_blood.csprojAssemblyReference.cache
-/home/e3erli/PycharmProjects/calc/2021/pracitce_C_SHARP/first_blood/first_blood/obj/x86/Debug/first_blood.csproj.CoreCompileInputs.cache
-/home/e3erli/PycharmProjects/calc/2021/pracitce_C_SHARP/first_blood/first_blood/obj/x86/Debug/first_blood.exe
-/home/e3erli/PycharmProjects/calc/2021/pracitce_C_SHARP/first_blood/first_blood/obj/x86/Debug/first_blood.pdb
